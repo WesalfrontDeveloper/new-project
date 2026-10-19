@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* npx @tailwindcss/cli -i ./assets/normalize.css -o ./assets/master.css --watch */
+
+/* https://preview.themeforest.net/item/educate-education-html-template/full_screen_preview/17791553 */
+
+@theme{
+    --color-gray:#90A0B1;
+    --color-face:#4B6EA9;
+    --color-youtobe:#F43622;
+    --color-link:#068DC2;
+    --color-twit:#65BBF2;
+    --color-bg:#FFFFFF;
+
+}
